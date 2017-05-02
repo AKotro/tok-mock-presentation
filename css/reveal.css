@@ -1071,7 +1071,8 @@ body {
 
 .reveal.rtl ol,
 .reveal.rtl ul {
-  text-align: right; }
+  text-align: right; 
+   }
 
 .reveal.rtl .progress span {
   float: right; }
@@ -1363,3 +1364,15 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+/******************************************
+ * My Changes
+ * **************************************/
+
+.smallFont li{
+	font-size: 20px;
+}
+
+.smallerFont  {
+	font-size: 8px;
+}
